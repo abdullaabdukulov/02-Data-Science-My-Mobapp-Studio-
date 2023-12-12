@@ -1,11 +1,17 @@
 ## Task
-Math is difficult for me and working with graphics is a little difficult
+What is the problem? And where is the challenge?
+Problem is the learn analysis and clear datasets, but i struggling then reach my goal...
+
 
 ## Description
-i have spent a lot of time for learning it
+How have you solved the problem?
+With modules, like create class to interactive reading and usege for our problem
+
 
 ## Installation
-It is undownloadable code, because it is not an app.
+How to install your project? npm install? make? make re?
+Firstly i install dataset 
 
 ## Usage
-It uses matplotlib for showing graphics, pandas for taking with data
+TODO - How does it work?
+
