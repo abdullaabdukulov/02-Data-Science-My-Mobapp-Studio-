@@ -1,3 +1,6 @@
+# Welcome to My Mobapp Studio
+***
+
 ## Task
 What is the problem? And where is the challenge?
 Problem is the learn analysis and clear datasets, but i struggling then reach my goal...
@@ -14,4 +17,9 @@ Firstly i install dataset
 
 ## Usage
 TODO - How does it work?
+```
+./my_project argument1 argument2
+```
+
+### The Core Team
 
