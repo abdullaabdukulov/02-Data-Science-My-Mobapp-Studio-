@@ -1,29 +1,27 @@
 def detect_duplicate(dataset, column = 'App'):
-    store = []
-    detected = []
+    magazine = []
+    disclosed = []
     n = 0
     for app in dataset[column]:
-        if app in store:
+        if app in magazine:
             n+=1
-            detected.append(app)
-        store.append(app)
+            disclosed.append(app)
+        magazine.append(app)
     print(f"Detected {n} element")
-    return detected
+    return disclosed
 
 
 def replace_column(dataset, column = None, match = None):
     for key, value in match.items():
         dataset.loc[:, column] = dataset[column].str.replace(key, value)
-    
-    #display(dataset[column].unique())
     return dataset
 
 def calculate_installs(columns = None):
-    result = []
+    outcome = []
     for column in columns:
-        summ = dataset['Installs'][dataset['Category'] == column].sum()
-        result.append(summ)
-    return result
+        amounts = dataset['Installs'][dataset['Category'] == column].sum()
+        outcome.append(amounts)
+    return outcome
 
 def calculate_free(column):
     count = column.value_counts()
