@@ -19,8 +19,11 @@ I remembered you told me you are also a developer, I'm myself an old developer, 
 I will invite my vp marketing and vp designer to the meeting, formatting will be a real plus, and if they have additional questions be ready to jump back in the code.
 
 # Installation
-
-Run my_mobapp_studio.ipynb
+pip install numpy
+pip install pandas
+pip install seaborn
+pip install matplotlib
+pip install plotly.express
 
 # Usage
-Run my_mobapp_studio.ipynb
+jupyter-notebook --no-browser
