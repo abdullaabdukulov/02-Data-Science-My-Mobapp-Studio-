@@ -1,1 +1,55 @@
-<div class="section-inner sectionLayout--insetColumn"><h3 name="878b" class="graf graf--h3 graf--leading graf--title" data-testid="editorTitleParagraph">Google Play Store&nbsp;Apps</h3><p data-testid="editorParagraphText" name="6406" class="graf graf--p graf--empty graf-after--h3"><br></p><p data-testid="editorParagraphText" name="94f6" class="graf graf--p graf-after--p">Hi there!<br>In this notebook, I will explain the analysis of <strong class="markup--strong markup--p-strong">Google Play Store Apps</strong></p><h3 data-testid="editorHeadingText" name="3ca3" class="graf graf--h3 graf-after--p"><strong class="markup--strong markup--h3-strong">Google Play&nbsp;Store</strong></h3><p data-testid="editorParagraphText" name="23bf" class="graf graf--p graf-after--h3">This is the most popular platform wich has millons of different applications</p><h3 data-testid="editorHeadingText" name="64af" class="graf graf--h3 graf-after--p">Get started</h3><h3 data-testid="editorHeadingText" name="0f3d" class="graf graf--h3 graf-after--h3"><strong class="markup--strong markup--h3-strong">Explore original&nbsp;dataset</strong></h3><figure tabindex="0" contenteditable="false" name="ce52" class="graf graf--figure is-defaultValue graf-after--h3"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 432px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 61.7%;"></div><img class="graf-image" data-image-id="1*q2ei-Lr4Jf0bxuhnC0H2sA.png" data-width="1087" data-height="671" src="https://cdn-images-1.medium.com/max/640/1*q2ei-Lr4Jf0bxuhnC0H2sA.png"><div class="crosshair u-ignoreBlock"></div></div><figcaption class="imageCaption" contenteditable="true" data-default-value="Type caption for image (optional)"><span class="defaultValue">Type caption for image (optional)</span><br></figcaption></figure><p data-testid="editorParagraphText" name="60c0" class="graf graf--p graf-after--figure">There you can see dataset is not clean</p><figure tabindex="0" contenteditable="false" data-testid="editorImageParagraph" name="65ef" class="graf graf--figure is-defaultValue graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 538px; max-height: 425px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 79%;"></div><img class="graf-image" data-image-id="1*fzdYfIH2rKmmv6AyX7lkHA.png" data-width="538" data-height="425" src="https://cdn-images-1.medium.com/max/640/1*fzdYfIH2rKmmv6AyX7lkHA.png" data-delayed-src="https://cdn-images-1.medium.com/max/640/1*fzdYfIH2rKmmv6AyX7lkHA.png"><div class="crosshair u-ignoreBlock"></div></div><figcaption class="imageCaption" contenteditable="true" data-default-value="Type caption for image (optional)"><span class="defaultValue">Type caption for image (optional)</span><br></figcaption></figure><h3 data-testid="editorHeadingText" name="e1b8" class="graf graf--h3 graf-after--figure">Data Cleaning</h3><ol class="postList"><li data-testid="editorParagraphText" name="4701" class="graf graf--li graf-after--h3">Remove the duplicatres</li><li data-testid="editorParagraphText" name="d110" class="graf graf--li graf-after--li">Clean the Size column</li><li data-testid="editorParagraphText" name="02fe" class="graf graf--li graf-after--li">Clean the Reviews column</li><li data-testid="editorParagraphText" name="b271" class="graf graf--li graf-after--li">Clean the Price column</li><li data-testid="editorParagraphText" name="7df9" class="graf graf--li graf-after--li">Clean the Installs column</li><li data-testid="editorParagraphText" name="d8f0" class="graf graf--li graf-after--li">Clean the Content Rating column</li><li data-testid="editorParagraphText" name="0d94" class="graf graf--li graf-after--li">Drop the unnecessary columns</li></ol><h3 data-testid="editorHeadingText" name="9a13" class="graf graf--h3 graf-after--li">The cleaned&nbsp;dataset</h3><figure tabindex="0" contenteditable="false" data-testid="editorImageParagraph" name="a947" class="graf graf--figure is-defaultValue graf-after--h3"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 359px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 51.300000000000004%;"></div><img class="graf-image" data-image-id="1*2Cfh12qxcDpl7Mled1aN6A.png" data-width="978" data-height="502" src="https://cdn-images-1.medium.com/max/640/1*2Cfh12qxcDpl7Mled1aN6A.png" data-delayed-src="https://cdn-images-1.medium.com/max/640/1*2Cfh12qxcDpl7Mled1aN6A.png"><div class="crosshair u-ignoreBlock"></div></div><figcaption class="imageCaption" contenteditable="true" data-default-value="Type caption for image (optional)"><span class="defaultValue">Type caption for image (optional)</span><br></figcaption></figure><p data-testid="editorParagraphText" name="c269" class="graf graf--p graf--empty graf-after--figure" data-scroll="native"><br></p><figure tabindex="0" contenteditable="false" data-testid="editorImageParagraph" name="4f48" class="graf graf--figure is-defaultValue graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 304px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 43.4%;"></div><img class="graf-image" data-image-id="1*TVFuvJPXw31QhJ6T99vZtw.png" data-width="1463" data-height="635" src="https://cdn-images-1.medium.com/max/640/1*TVFuvJPXw31QhJ6T99vZtw.png" data-delayed-src="https://cdn-images-1.medium.com/max/640/1*TVFuvJPXw31QhJ6T99vZtw.png"><div class="crosshair u-ignoreBlock"></div></div><figcaption class="imageCaption" contenteditable="true" data-default-value="Type caption for image (optional)"><span class="defaultValue">Type caption for image (optional)</span><br></figcaption></figure><h3 data-testid="editorHeadingText" name="7a04" class="graf graf--h3 graf-after--figure">Time to&nbsp;analize</h3><p data-testid="editorParagraphText" name="0f43" class="graf graf--p graf-after--h3">After cleaning the dataset, i will move on analysis part</p><h3 data-testid="editorHeadingText" name="0e79" class="graf graf--h3 graf-after--p">Let’s see the correlation between some&nbsp;columns</h3><figure tabindex="0" contenteditable="false" data-testid="editorImageParagraph" name="c6e7" class="graf graf--figure is-defaultValue graf-after--h3"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 641px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 91.60000000000001%;"></div><img class="graf-image" data-image-id="1*y1y-eiRcwyPj9WjN3aieKQ.png" data-width="714" data-height="654" src="https://cdn-images-1.medium.com/max/640/1*y1y-eiRcwyPj9WjN3aieKQ.png" data-delayed-src="https://cdn-images-1.medium.com/max/640/1*y1y-eiRcwyPj9WjN3aieKQ.png"><div class="crosshair u-ignoreBlock"></div></div><figcaption class="imageCaption" contenteditable="true" data-default-value="Type caption for image (optional)"><span class="defaultValue">Type caption for image (optional)</span><br></figcaption></figure><p data-testid="editorParagraphText" name="e155" class="graf graf--p is-selected graf-after--figure">There you can see&nbsp;</p><figure tabindex="0" contenteditable="false" data-testid="editorImageParagraph" name="5684" class="graf graf--figure is-defaultValue graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 471px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 67.30000000000001%;"></div><img class="graf-image" data-image-id="1*AXoMHrzS2a2bEJX86rwVPQ.png" data-width="1137" data-height="765" src="https://cdn-images-1.medium.com/max/640/1*AXoMHrzS2a2bEJX86rwVPQ.png" data-delayed-src="https://cdn-images-1.medium.com/max/640/1*AXoMHrzS2a2bEJX86rwVPQ.png"><div class="crosshair u-ignoreBlock"></div></div><figcaption class="imageCaption" contenteditable="true" data-default-value="Type caption for image (optional)"><span class="defaultValue">Type caption for image (optional)</span><br></figcaption></figure><p data-testid="editorParagraphText" name="3954" class="graf graf--p graf--empty graf-after--figure" data-scroll="native"><br></p><p data-testid="editorParagraphText" name="e303" class="graf graf--p graf--empty graf-after--p" data-scroll="native"><br></p><p data-testid="editorParagraphText" name="f3c6" class="graf graf--p graf--empty graf-after--p" data-scroll="native"><br></p><p name="954c" class="graf graf--p graf--empty graf-after--p graf--trailing" data-scroll="native" data-testid="editorParagraphText"><br></p></div>
+# Welcome to My Mobapp Studio
+***
+
+### Task
+#### The task was cleaning and analysing data of one of the largest applications' marketplace <b>_Goole Play Store_</b>.
+#### Second part is visualizing it with criteria's below
+
+1. Plot with bar diagram the most populars paid apps of Family category
+
+2. Plot with a pie diagram the most popular genres according to the number of installations from paid family
+
+3. An array with the number of installation per category
+
+4. Plot a pie with the number of installation per category
+
+5. Plot a bar with the mean price per category
+
+6. Most expensive apps per category
+
+### Describtion
+***
+#### First of all I should introduced with dataset
+
+- After introducing I knew that the dataset was not clean
+
+#### Second step is cleaning the dataset
+I cleaned the dataset like:
+- Remove the duplicatres 
+- Clean the Size column 
+- Clean the Reviews column 
+- Clean the Price column 
+- Clean the Installs column 
+- Clean the Content Rating column 
+- Drop the unnecessary columns
+
+#### Last step was visualizing the dataset
+You can see the visualized dataset in my 
+[blog post](https://medium.com/@ahror_haidarov/google-play-store-apps-243e16f67574)
+
+### Installation 
+There are some libraries the I used during the project. 
+You can download required files from `requirements.txt` file runnig these terminal codes below
+
+```bash
+    #write it in your terminal
+    pip install -r requirements.txt    
+```
+
+### Usage
+You can use this project by running `my_mobapp_studio.ipynb` file.
+For runnig this file Do these instead:
+
+```bash
+    jupyter notebook
+```
