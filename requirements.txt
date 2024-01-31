@@ -1,0 +1,7 @@
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+pandas==2.2.0
+plotly==5.18.0
+plotly-express==0.4.1
+seaborn==0.13.2
+jupyter==7.0.7
