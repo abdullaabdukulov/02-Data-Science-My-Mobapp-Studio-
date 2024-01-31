@@ -51,5 +51,7 @@ You can use this project by running `my_mobapp_studio.ipynb` file.
 For runnig this file Do these instead:
 
 ```bash
-    jupyter notebook
+    jupyter notebook my_mobapp_studio.ipynb
 ```
+
+You can see analysis of this project on my [medium blog post](https://medium.com/@ahror_haidarov/google-play-store-apps-243e16f67574)
