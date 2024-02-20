@@ -11,15 +11,15 @@ This includes tasks such as.
 * Depending on each category, what are the ratio of download per app?
 * Any additional information you will find useful for us to take the right decision.
 
-<img src='a.png'>
+![](images/a.png)
 
-<img src='b.png'>
+![](images/b.png)
 
-<img src='c.png'>
+![](images/c.png)
 
-<img src='d.png'>
+![](images/d.png)
 
-<img src='e.png'>
+![](images/e.png)
 
 
 
