@@ -1,10 +1,10 @@
 # 02-Data-Science-My-Mobapp-Studio
 
 ## Task
-Bizga 2 ta csv fayl berilgan bu fayllardan  google play storeni analiz qilish
+We are given 2 csv files to analyze google play store from these files
 
 ## Description
-bizga 2 ta csv berilagn biz uni cleaning qilib sumirize qilib uni har xil chartlar ko'rinishida chiqarishimiz kerak
+given us 2 csv, we need to clean and summarize it and output it in the form of various charts
 
 ## Installation
 pip3 install pandas numpy plotly.express matplotlib seaborn plotly 
