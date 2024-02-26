@@ -7,7 +7,7 @@ We are given 2 csv files to analyze google play store from these files
 given us 2 csv, we need to clean and summarize it and output it in the form of various charts
 
 ## Installation
-pip3 install pandas numpy plotly.express matplotlib seaborn plotly 
+pip3 install pandas numpy plotly.express matplotlib  seaborn plotly   
 
 
 ## Usage
