@@ -7,13 +7,12 @@ This project was about data from google play store and main problem wss only vis
 it took a lot of time, i have seen various videos and read some library description 
 ## Installation
 ```
-import pandas as pd
-import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
+pip install pandas
+pip install numpy
+pip install plotly
 ```
 ## Usage
 jupyter notebook
 press Enter+Shift
 
-[Here](https://medium.com/@lomakdia/google-play-store-f014c2795edf) is my blok post
+In link_to_blog_post.txt you can see and visit my blog post
